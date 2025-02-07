@@ -25,13 +25,13 @@
 
 ```bash
 # 进入目录
-cd hadoopScript
+cd AutomaticScript
 
 # 赋予脚本权限
-chmod +x init.sh
+chmod +x HadoopInit.sh
 
 # 启动脚本
-sudo ./init.sh
+sudo ./HadoopInit.sh
 
 # 安静等待
 ```
